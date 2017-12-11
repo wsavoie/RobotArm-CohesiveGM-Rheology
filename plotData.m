@@ -18,7 +18,7 @@ clear all;
 % speed=pctSpeed*maxSpeed;
 
 % fold=uigetdir('A:\2DSmartData\entangledData');
-fold='A:\RoboRheologyCohesiveGM\data4';
+fold='A:\RobotArm-CohesiveGM-Rheology\data4';
 
 freq=1000; %hz rate for polling F/T sensor
 s=struct;
